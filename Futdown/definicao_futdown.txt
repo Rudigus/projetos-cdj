@@ -1,0 +1,18 @@
+2 jogadores
+- mover
+- correr
+- empurrar a bola
+2 barras de stamina
+- mostrar a stamina do jogador
+- diminuir caso o jogador corra
+- aumentar com o tempo
+1 placar
+- mostrar a pontuacao do jogador
+- aumentar caso ocorra um gol
+1 bola
+- mover
+- fazer gol
+2 traves
+1 linha do meio
+circulo do meio
+campo
